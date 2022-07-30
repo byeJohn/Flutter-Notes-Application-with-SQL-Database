@@ -1,4 +1,4 @@
-#Flutter Notes Application with SQL Database. Tutorial Followed:
+# Flutter Notes Application with SQL Database. Tutorial Followed:
 https://youtu.be/UpKrhZ0Hppk
 
 UI pulled from:
